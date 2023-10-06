@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Lmjfh - Document de Présentation</title>
+<title>Lmjfh - Document de Présentation</title>
     <style>
         /* Style CSS pour rendre la page jolie */
         body {
@@ -50,5 +47,3 @@
     <footer>
         <p>© 2023 Lmjfh - Tous droits réservés.</p>
     </footer>
-</body>
-</html>
